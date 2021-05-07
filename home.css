@@ -120,7 +120,7 @@ body{
 .languages{
     height: 60px;
     display: flex;
-   
+   margin-top: 30px;
     padding-top: 5px;
 }
 .books{
@@ -135,6 +135,14 @@ body{
     padding: 120px 20px 50px 20px;
     
 }
-.bookText{
-
+.socialsList{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 50px 50px 50px;
+}
+.socialEX{
+    height:200px;
+    width: 250px;
+    background-color:rgb(101, 101, 161);
+    padding: 120px 20px 50px 20px;
 }
